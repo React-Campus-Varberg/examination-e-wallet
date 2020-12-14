@@ -1,7 +1,7 @@
 # Inlämningsuppgift - E-wallet
 
 ## Instruktioner
-Du ska bygga en digital plånbok som samlar alla kreditkort. Det ska gå och se sina kreditkort samt lägga till ett nytt.
+Du ska bygga en digital plånbok som samlar alla kreditkort. Det ska gå och se sina kreditkort samt lägga till ett nytt. Alla bilder du behöver ha finns i mappen assets i detta repo.
 
 
 **Figmaskiss:** https://www.figma.com/file/PING2mPghGAlgaXNOmUfNz/E-Wallet-(Copy)?node-id=11%3A2
